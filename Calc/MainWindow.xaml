@@ -31,7 +31,7 @@
                 <Button Content="%" FontSize="16" FontFamily="Arial" Background="#FF666666" Foreground="White" BorderBrush="Black"/>
                 <Button Content="sin" FontSize="16" FontFamily="Arial" Background="#FF666666" Foreground="White" BorderBrush="Black"/>
                 <Button Content="cos" FontSize="16" FontFamily="Arial" Background="#FF666666" Foreground="White" BorderBrush="Black"/>
-                <Button Content="÷" FontSize="16" FontFamily="Arial" Background="#FFF3D7BA" BorderBrush="Black"/>
+                <Button Content="/" FontSize="16" FontFamily="Arial" Background="#FFF3D7BA" BorderBrush="Black"/>
                 <Button Content="7" FontSize="16" FontFamily="Arial" BorderBrush="Black" Background="#FFAEAEAE"/>
                 <Button Content="8" FontSize="16" FontFamily="Arial" BorderBrush="Black" Background="#FFAEAEAE"/>
                 <Button Content="9" FontSize="16" FontFamily="Arial" BorderBrush="Black" Background="#FFAEAEAE"/>
